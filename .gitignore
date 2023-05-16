@@ -22,3 +22,4 @@ Plugins/DenisesVRExpansionExpansion/*
 *.xcodeproj
 *.xcworkspace
 ReloadBinaries.ps1
+*.bak
